@@ -1,0 +1,119 @@
+
+    body {
+        font-size: 20px;
+    }
+
+    .menu_cat {
+        padding: 13px 0px;
+    }
+
+    .types_menu_program {
+        padding: 10px 0;
+    }
+
+    .filmitem {
+        height: 163px;
+        width: 123px;
+        position: relative;
+
+    }
+
+    .info_small {
+        width: 90.5%;
+    }
+
+    .genre_item {
+        width: 170px;
+    }
+
+    .keyboard_key {
+        padding: 12px;
+    }
+
+    #keyboard_key_input {
+        padding: 12px;
+        width: 608px;
+    }
+
+    #keyboard_key_space {
+        width: 424px;
+    }
+
+    #keyboard_key_search {
+        width: 148px;
+    }
+
+    #keyboard_key_lang {
+        padding: 12px 2px;
+        width: 76px;
+    }
+
+    #keyboard_key_clear_all img, #keyboard_key_clear img {
+        left: 14px;
+        top: 7px;
+    }
+
+    .font_90 {
+        font-size: 18px;
+        line-height: 18px;
+        height: 18px;
+
+    }
+
+    .font_100 {
+        font-size: 20px;
+        line-height: 20px;
+        height: 20px;
+    }
+
+    .font_110 {
+        font-size: 22px;
+        line-height: 22px;
+        height: 22px;
+    }
+
+    .font_120, .title_text, .settings_value, .vod_line {
+        font-size: 24px;
+        line-height: 24px;
+        height: 26px;
+    }
+
+    .font_130 {
+        font-size: 26px;
+        line-height: 26px;
+        height: 26px;
+    }
+
+    .font_140 {
+        font-size: 28px;
+        line-height: 28px;
+        height: 28px;
+    }
+
+    .list_item_text {
+        font-size: 22px;
+        line-height: 25px;
+        height: 25px;
+    }
+
+    .help_item img {
+        width: 32px;
+    }
+
+    .help_item div {
+        font-size: 16px;
+    }
+
+    .thin_btn {
+        padding-top: 6px;
+    }
+    .program_active_cat {
+        background-color: #2A5CB5 !important;
+    }
+    .player_vert_line, .player_vert_line_live {
+        height: 70px !important;
+        top: -50px !important;
+    }
+    .player_cur_time_val, .player_live_time_val {
+        padding: 3px 12px !important;
+    }

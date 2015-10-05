@@ -1,0 +1,28 @@
+#left_channels_container, #statusbar, .container_menu, .time.channel_time, .player_container, .info_small, .info, #loader_div, #loader img, .film_text, .submit {
+    background: rgba(0,0,0, 0.75);
+}
+
+.listitem, .submit, .setttings_channels_listitem, .listitem_input, .grey_line, .remind_btn, .keyboard_key, .grey {
+    background: #000000 !important;
+    opacity: 0.95 !important;
+    border: 1px solid #333333;
+
+}
+.grey_line {
+    border:none !important;
+}
+
+.program_active_cat {
+    background-color: #2A5CB5 !important;
+}
+
+
+.listitem:active, .setttings_channels_listitem:active, .grey.active, .submit.active, .player_line, .player_time_active_line, .player_cur_time_val, .player_live_time_val,
+.genre_item:hover, .genre_item.active, .submit:hover, .listitem_input:hover, .chose_settings.active .submit, .remind_btn:hover, .remind_btn.active, .keyboard_key.active, .keyboard_key:hover,
+.channel_content_info.active, .channel_content_rec.active, .filmitem.active .film_text {
+    background: #2a5cb5 !important; /* Old browsers */
+}
+
+.transparent {
+    background: none !important;
+}

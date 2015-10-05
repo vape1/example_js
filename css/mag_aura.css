@@ -1,0 +1,12 @@
+
+#left_channels_container, #statusbar, .container_menu, .time.channel_time, .player_container, .info_small, .info, #loader_div, #loader img, .film_text, #center_block{
+    background: rgba(50,50,50, 0.9) !important;
+}
+
+.transparent {
+    background: none !important;
+}
+
+.background_map {
+    background: url("../images/background_big.jpg") !important;
+}

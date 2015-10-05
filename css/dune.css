@@ -1,0 +1,52 @@
+
+#left_channels_container, #statusbar, .container_menu, .time.channel_time, .player_container, .info_small, .info, #loader_div, #loader img, .film_text, #center_block{
+    background: rgba(70, 70, 70, 0.9) !important;
+}
+
+.transparent {
+    background: none !important;
+}
+
+
+.grey, .grey_line, .remind_btn, .submit, .keyboard_key, .listitem {
+    background: #111111; /* Old browsers */
+    background: -moz-linear-gradient(top, #111111 0%, #0f0f0f 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #0f0f0f), color-stop(100%, #0f0f0f)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #111111 0%, #0f0f0f 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #111111 0%, #0f0f0f 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #111111 0%, #0f0f0f 100%); /* IE10+ */
+    background: linear-gradient(to bottom, #111111 0%, #0f0f0f 100%); /* W3C */
+    opacity: 0.9 !important;
+}
+.auth_button {
+    background: #333333; /* Old browsers */
+    background: -moz-linear-gradient(top, #333333 0%, #0f0f0f 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #0f0f0f), color-stop(100%, #0f0f0f)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #333333 0%, #0f0f0f 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #333333 0%, #0f0f0f 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #333333 0%, #0f0f0f 100%); /* IE10+ */
+    background: linear-gradient(to bottom, #333333 0%, #0f0f0f 100%); /* W3C */
+    opacity: 0.9 !important;
+}
+
+.background_map {
+    background: url("../images/background_big.jpg") !important;
+}
+#mode_menu_container {
+    position: absolute;
+    top:0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    margin: auto;
+    height: 125px;
+    width: 600px;
+    background: rgba(70, 70, 70, 0.9) !important;
+    padding: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    color: white;
+    z-index: 100;
+    display: none;
+}
